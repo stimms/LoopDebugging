@@ -1,0 +1,415 @@
+SAMPLE_NAME,WWTP_CODE,LOCATION,NUMBER,AXYS_ID,COMPOUND,LAB_FLAG,CONCENTRATION_FOUND,DETECTION_LIMIT,UNIT,COLLECTION_DATE,WORKGROUP
+B-BIOS-13,B,Biosolids,13,L21782-1,13C12-alpha-HBCDD,Not Applicable,78.5,Not Applicable,Percent Recovery,7/29/2014,WG48505
+B-BIOS-14,B,Biosolids,14,L21782-2,13C12-alpha-HBCDD,Not Applicable,52.8,Not Applicable,Percent Recovery,7/30/2014,WG48505
+B-BIOS-15,B,Biosolids,15,L21782-3,13C12-alpha-HBCDD,Not Applicable,68.1,Not Applicable,Percent Recovery,8/1/2014,WG48505
+B-BIOS-16,B,Biosolids,16,L22824-1,13C12-alpha-HBCDD,Not Applicable,61.1,Not Applicable,Percent Recovery,2/24/2015,WG50595
+B-BIOS-17,B,Biosolids,17,L22824-2,13C12-alpha-HBCDD,Not Applicable,77.5,Not Applicable,Percent Recovery,2/25/2015,WG50595
+B-BIOS-18,B,Biosolids,18,L22824-3,13C12-alpha-HBCDD,Not Applicable,74.2,Not Applicable,Percent Recovery,2/26/2015,WG50595
+E-BIOS-16,E,Biosolids,16,L19290-1,13C12-alpha-HBCDD,Not Applicable,81.8,Not Applicable,Percent Recovery,2/19/2013,WG43036
+E-BIOS-17,E,Biosolids,17,L19290-2,13C12-alpha-HBCDD,Not Applicable,71.4,Not Applicable,Percent Recovery,2/20/2013,WG43036
+E-BIOS-18,E,Biosolids,18,L19290-3,13C12-alpha-HBCDD,Not Applicable,61.8,Not Applicable,Percent Recovery,2/21/2013,WG43036
+E-BIOS-19,E,Biosolids,19,L19935-1,13C12-alpha-HBCDD,Not Applicable,91.4,Not Applicable,Percent Recovery,7/16/2013,WG44284
+E-BIOS-20,E,Biosolids,20,L19943-1,13C12-alpha-HBCDD,Not Applicable,80,Not Applicable,Percent Recovery,7/17/2013,WG44284
+E-BIOS-21,E,Biosolids,21,L19943-2,13C12-alpha-HBCDD,Not Applicable,77.9,Not Applicable,Percent Recovery,7/18/2013,WG44284
+E-BIOS-22,E,Biosolids,22,L21061-1 R,13C12-alpha-HBCDD,Not Applicable,73,Not Applicable,Percent Recovery,2/18/2014,WG47445
+E-BIOS-23,E,Biosolids,23,L21061-2 R,13C12-alpha-HBCDD,Not Applicable,900,Not Applicable,Percent Recovery,2/19/2014,WG47445
+E-BIOS-24,E,Biosolids,24,L21061-3 R,13C12-alpha-HBCDD,Not Applicable,80.7,Not Applicable,Percent Recovery,2/20/2014,WG47445
+E-BIOS-7,E,Biosolids,7,L18719-1,13C12-alpha-HBCDD,Not Applicable,82.3,Not Applicable,Percent Recovery,7/24/2012,WG41692
+E-BIOS-8,E,Biosolids,8,L18719-2,13C12-alpha-HBCDD,Not Applicable,75.3,Not Applicable,Percent Recovery,7/25/2012,WG41692
+E-BIOS-9,E,Biosolids,9,L18719-3,13C12-alpha-HBCDD,Not Applicable,84.3,Not Applicable,Percent Recovery,7/26/2012,WG41692
+HG-BIOS-1,HG,Biosolids,1,L20145-1 R,13C12-alpha-HBCDD,Not Applicable,-12,Not Applicable,Percent Recovery,8/20/2013,WG44660
+HG-BIOS-2,HG,Biosolids,2,L20145-2 R (A),13C12-alpha-HBCDD,Not Applicable,79.5,Not Applicable,Percent Recovery,8/21/2013,WG44660
+HG-BIOS-2 (Duplicate),HG,Biosolids,2,WG44660-103  (DUP L20145-2),13C12-alpha-HBCDD,Not Applicable,79.6,Not Applicable,Percent Recovery,8/21/2013,WG44660
+HG-BIOS-3,HG,Biosolids,3,L20145-3 R,13C12-alpha-HBCDD,Not Applicable,63.5,Not Applicable,Percent Recovery,8/22/2013,WG44660
+HG-BIOS-4,HG,Biosolids,4,L21180-1 R,13C12-alpha-HBCDD,Not Applicable,79.5,Not Applicable,Percent Recovery,3/11/2014,WG47445
+HG-BIOS-5,HG,Biosolids,5,L21180-2 R,13C12-alpha-HBCDD,Not Applicable,74.6,Not Applicable,Percent Recovery,3/12/2014,WG47445
+HG-BIOS-6,HG,Biosolids,6,L21180-3 R,13C12-alpha-HBCDD,Not Applicable,78.3,Not Applicable,Percent Recovery,3/13/2014,WG47445
+N-BIOS-10,N,Biosolids,10,L19359-1,13C12-alpha-HBCDD,Not Applicable,60.2,Not Applicable,Percent Recovery,3/5/2013,WG43036
+N-BIOS-11,N,Biosolids,11,L19359-2,13C12-alpha-HBCDD,Not Applicable,62.3,Not Applicable,Percent Recovery,3/6/2013,WG43036
+N-BIOS-12,N,Biosolids,12,L19359-3 R,13C12-alpha-HBCDD,Not Applicable,67,Not Applicable,Percent Recovery,3/7/2013,WG43147
+N-BIOS-7,N,Biosolids,7,L18722-1,13C12-alpha-HBCDD,Not Applicable,86.5,Not Applicable,Percent Recovery,8/21/2012,WG41692
+N-BIOS-8,N,Biosolids,8,L18722-2,13C12-alpha-HBCDD,Not Applicable,85.6,Not Applicable,Percent Recovery,8/22/2012,WG41692
+N-BIOS-9,N,Biosolids,9,L18722-3,13C12-alpha-HBCDD,Not Applicable,89.5,Not Applicable,Percent Recovery,8/23/2012,WG41692
+Q-BIOS-19,Q,Biosolids,19,L18715-1  (A),13C12-alpha-HBCDD,Not Applicable,83.4,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-19 (MS),Q,Biosolids,19,WG41692-103  (MS),13C12-alpha-HBCDD,Not Applicable,85.4,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-19 (MSD),Q,Biosolids,19,WG41692-104  (MSD),13C12-alpha-HBCDD,Not Applicable,87.8,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-20,Q,Biosolids,20,L18715-2,13C12-alpha-HBCDD,Not Applicable,75,Not Applicable,Percent Recovery,7/11/2012,WG41692
+Q-BIOS-21,Q,Biosolids,21,L18715-3,13C12-alpha-HBCDD,Not Applicable,90,Not Applicable,Percent Recovery,7/12/2012,WG41692
+Q-BIOS-22,Q,Biosolids,22,L19335-1,13C12-alpha-HBCDD,Not Applicable,78.8,Not Applicable,Percent Recovery,2/26/2013,WG43036
+Q-BIOS-23,Q,Biosolids,23,L19335-2,13C12-alpha-HBCDD,Not Applicable,81.2,Not Applicable,Percent Recovery,3/5/2013,WG43036
+Q-BIOS-24,Q,Biosolids,24,L19335-3,13C12-alpha-HBCDD,Not Applicable,83.4,Not Applicable,Percent Recovery,3/6/2013,WG43036
+Q-BIOS-25,Q,Biosolids,25,L19889-1,13C12-alpha-HBCDD,Not Applicable,90.8,Not Applicable,Percent Recovery,7/9/2013,WG44216
+Q-BIOS-26,Q,Biosolids,26,L19889-2,13C12-alpha-HBCDD,Not Applicable,78.8,Not Applicable,Percent Recovery,7/10/2013,WG44216
+Q-BIOS-27,Q,Biosolids,27,L19889-3,13C12-alpha-HBCDD,Not Applicable,81.7,Not Applicable,Percent Recovery,7/11/2013,WG44216
+Q-BIOS-28,Q,Biosolids,28,L20950-1,13C12-alpha-HBCDD,Not Applicable,51.1,Not Applicable,Percent Recovery,1/28/2014,WG46409
+Q-BIOS-30,Q,Biosolids,30,L20950-3,13C12-alpha-HBCDD,Not Applicable,79.2,Not Applicable,Percent Recovery,1/30/2014,WG46409
+Q-BIOS-31,Q,Biosolids,31,L22015-1,13C12-alpha-HBCDD,Not Applicable,81.3,Not Applicable,Percent Recovery,9/9/2014,WG48994
+Q-BIOS-32,Q,Biosolids,32,L22015-2,13C12-alpha-HBCDD,Not Applicable,85.2,Not Applicable,Percent Recovery,9/10/2014,WG48994
+Q-BIOS-33,Q,Biosolids,33,L22015-3,13C12-alpha-HBCDD,Not Applicable,89.9,Not Applicable,Percent Recovery,9/11/2014,WG48994
+Q-BIOS-34,Q,Biosolids,34,L22753-1,13C12-alpha-HBCDD,Not Applicable,67.6,Not Applicable,Percent Recovery,2/4/2015,WG50365
+Q-BIOS-35,Q,Biosolids,35,L22753-2,13C12-alpha-HBCDD,Not Applicable,67.9,Not Applicable,Percent Recovery,2/5/2015,WG50365
+Q-BIOS-36,Q,Biosolids,36,L22753-3,13C12-alpha-HBCDD,Not Applicable,69.8,Not Applicable,Percent Recovery,2/6/2015,WG50365
+R-BIOS-16,R,Biosolids,16,L20906-1,13C12-alpha-HBCDD,Not Applicable,66.9,Not Applicable,Percent Recovery,1/21/2014,WG46409
+R-BIOS-21,R,Biosolids,21,L22222-1  (A),13C12-alpha-HBCDD,Not Applicable,85.5,Not Applicable,Percent Recovery,10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-103  (DUP L22222-1),13C12-alpha-HBCDD,Not Applicable,86.7,Not Applicable,Percent Recovery,10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-104  (DUP L22222-1),13C12-alpha-HBCDD,Not Applicable,84.1,Not Applicable,Percent Recovery,10/2/2014,WG48994
+R-BIOS-22,R,Biosolids,22,L22774-1,13C12-alpha-HBCDD,Not Applicable,97,Not Applicable,Percent Recovery,2/10/2015,WG50365
+R-BIOS-23,R,Biosolids,23,L22774-2,13C12-alpha-HBCDD,Not Applicable,60.1,Not Applicable,Percent Recovery,2/11/2015,WG50365
+R-BIOS-24,R,Biosolids,24,L22774-3,13C12-alpha-HBCDD,Not Applicable,62.6,Not Applicable,Percent Recovery,2/12/2015,WG50365
+U-BIOS-19,U,Biosolids,19,L20090-1 R,13C12-alpha-HBCDD,Not Applicable,73.8,Not Applicable,Percent Recovery,8/13/2013,WG44660
+U-BIOS-20,U,Biosolids,20,L20090-2 R,13C12-alpha-HBCDD,Not Applicable,84.1,Not Applicable,Percent Recovery,8/14/2013,WG44660
+U-BIOS-21,U,Biosolids,21,L20090-3 R,13C12-alpha-HBCDD,Not Applicable,65,Not Applicable,Percent Recovery,8/15/2013,WG44660
+U-BIOS-22,U,Biosolids,22,L21137-1 R,13C12-alpha-HBCDD,Not Applicable,75.1,Not Applicable,Percent Recovery,3/4/2014,WG47445
+U-BIOS-23,U,Biosolids,23,L21137-2 R,13C12-alpha-HBCDD,Not Applicable,79.9,Not Applicable,Percent Recovery,3/5/2014,WG47445
+U-BIOS-24,U,Biosolids,24,L21137-3 R,13C12-alpha-HBCDD,Not Applicable,77.2,Not Applicable,Percent Recovery,3/6/2014,WG47445
+U-BIOS-25,U,Biosolids,25,L21960-1,13C12-alpha-HBCDD,Not Applicable,87.8,Not Applicable,Percent Recovery,8/26/2014,WG48994
+U-BIOS-26,U,Biosolids,26,L21960-2,13C12-alpha-HBCDD,Not Applicable,94.3,Not Applicable,Percent Recovery,8/27/2014,WG48994
+U-BIOS-27,U,Biosolids,27,L21960-3,13C12-alpha-HBCDD,Not Applicable,89.4,Not Applicable,Percent Recovery,8/28/2014,WG48994
+U-BIOS-28,U,Biosolids,28,L22850-1,13C12-alpha-HBCDD,Not Applicable,65.9,Not Applicable,Percent Recovery,3/3/2015,WG50595
+U-BIOS-29,U,Biosolids,29,L22850-2,13C12-alpha-HBCDD,Not Applicable,83.9,Not Applicable,Percent Recovery,3/4/2015,WG50595
+U-BIOS-30,U,Biosolids,30,L22850-3,13C12-alpha-HBCDD,Not Applicable,70,Not Applicable,Percent Recovery,3/5/2015,WG50595
+B-BIOS-13,B,Biosolids,13,L21782-1,13C12-beta-HBCDD,Not Applicable,109,Not Applicable,Percent Recovery,7/29/2014,WG48505
+B-BIOS-14,B,Biosolids,14,L21782-2,13C12-beta-HBCDD,Not Applicable,119,Not Applicable,Percent Recovery,7/30/2014,WG48505
+B-BIOS-15,B,Biosolids,15,L21782-3,13C12-beta-HBCDD,Not Applicable,128,Not Applicable,Percent Recovery,8/1/2014,WG48505
+B-BIOS-16,B,Biosolids,16,L22824-1,13C12-beta-HBCDD,Not Applicable,50.9,Not Applicable,Percent Recovery,2/24/2015,WG50595
+B-BIOS-17,B,Biosolids,17,L22824-2,13C12-beta-HBCDD,Not Applicable,63.1,Not Applicable,Percent Recovery,2/25/2015,WG50595
+B-BIOS-18,B,Biosolids,18,L22824-3,13C12-beta-HBCDD,Not Applicable,77.6,Not Applicable,Percent Recovery,2/26/2015,WG50595
+E-BIOS-16,E,Biosolids,16,L19290-1,13C12-beta-HBCDD,Not Applicable,79.8,Not Applicable,Percent Recovery,2/19/2013,WG43036
+E-BIOS-17,E,Biosolids,17,L19290-2,13C12-beta-HBCDD,Not Applicable,71,Not Applicable,Percent Recovery,2/20/2013,WG43036
+E-BIOS-18,E,Biosolids,18,L19290-3,13C12-beta-HBCDD,Not Applicable,70.1,Not Applicable,Percent Recovery,2/21/2013,WG43036
+E-BIOS-19,E,Biosolids,19,L19935-1,13C12-beta-HBCDD,Not Applicable,102,Not Applicable,Percent Recovery,7/16/2013,WG44284
+E-BIOS-20,E,Biosolids,20,L19943-1,13C12-beta-HBCDD,Not Applicable,98.5,Not Applicable,Percent Recovery,7/17/2013,WG44284
+E-BIOS-21,E,Biosolids,21,L19943-2,13C12-beta-HBCDD,Not Applicable,100,Not Applicable,Percent Recovery,7/18/2013,WG44284
+E-BIOS-22,E,Biosolids,22,L21061-1 R,13C12-beta-HBCDD,Not Applicable,73.6,Not Applicable,Percent Recovery,2/18/2014,WG47445
+E-BIOS-23,E,Biosolids,23,L21061-2 R,13C12-beta-HBCDD,Not Applicable,64.3,Not Applicable,Percent Recovery,2/19/2014,WG47445
+E-BIOS-24,E,Biosolids,24,L21061-3 R,13C12-beta-HBCDD,Not Applicable,73.5,Not Applicable,Percent Recovery,2/20/2014,WG47445
+E-BIOS-7,E,Biosolids,7,L18719-1,13C12-beta-HBCDD,Not Applicable,86.4,Not Applicable,Percent Recovery,7/24/2012,WG41692
+E-BIOS-8,E,Biosolids,8,L18719-2,13C12-beta-HBCDD,Not Applicable,75.8,Not Applicable,Percent Recovery,7/25/2012,WG41692
+E-BIOS-9,E,Biosolids,9,L18719-3,13C12-beta-HBCDD,Not Applicable,90,Not Applicable,Percent Recovery,7/26/2012,WG41692
+HG-BIOS-1,HG,Biosolids,1,L20145-1 R,13C12-beta-HBCDD,Not Applicable,76.6,Not Applicable,Percent Recovery,8/20/2013,WG44660
+HG-BIOS-2,HG,Biosolids,2,L20145-2 R (A),13C12-beta-HBCDD,Not Applicable,75.8,Not Applicable,Percent Recovery,8/21/2013,WG44660
+HG-BIOS-2 (Duplicate),HG,Biosolids,2,WG44660-103  (DUP L20145-2),13C12-beta-HBCDD,Not Applicable,79.1,Not Applicable,Percent Recovery,8/21/2013,WG44660
+HG-BIOS-3,HG,Biosolids,3,L20145-3 R,13C12-beta-HBCDD,Not Applicable,63.6,Not Applicable,Percent Recovery,8/22/2013,WG44660
+HG-BIOS-4,HG,Biosolids,4,L21180-1 R,13C12-beta-HBCDD,Not Applicable,83.6,Not Applicable,Percent Recovery,3/11/2014,WG47445
+HG-BIOS-5,HG,Biosolids,5,L21180-2 R,13C12-beta-HBCDD,Not Applicable,70,Not Applicable,Percent Recovery,3/12/2014,WG47445
+HG-BIOS-6,HG,Biosolids,6,L21180-3 R,13C12-beta-HBCDD,Not Applicable,75.4,Not Applicable,Percent Recovery,3/13/2014,WG47445
+N-BIOS-10,N,Biosolids,10,L19359-1,13C12-beta-HBCDD,Not Applicable,74,Not Applicable,Percent Recovery,3/5/2013,WG43036
+N-BIOS-11,N,Biosolids,11,L19359-2,13C12-beta-HBCDD,Not Applicable,84.3,Not Applicable,Percent Recovery,3/6/2013,WG43036
+N-BIOS-12,N,Biosolids,12,L19359-3 R,13C12-beta-HBCDD,Not Applicable,70.7,Not Applicable,Percent Recovery,3/7/2013,WG43147
+N-BIOS-7,N,Biosolids,7,L18722-1,13C12-beta-HBCDD,Not Applicable,93.8,Not Applicable,Percent Recovery,8/21/2012,WG41692
+N-BIOS-8,N,Biosolids,8,L18722-2,13C12-beta-HBCDD,Not Applicable,86.5,Not Applicable,Percent Recovery,8/22/2012,WG41692
+N-BIOS-9,N,Biosolids,9,L18722-3,13C12-beta-HBCDD,Not Applicable,90.3,Not Applicable,Percent Recovery,8/23/2012,WG41692
+Q-BIOS-19,Q,Biosolids,19,L18715-1  (A),13C12-beta-HBCDD,Not Applicable,87,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-19 (MS),Q,Biosolids,19,WG41692-103  (MS),13C12-beta-HBCDD,Not Applicable,79.8,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-19 (MSD),Q,Biosolids,19,WG41692-104  (MSD),13C12-beta-HBCDD,Not Applicable,90,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-20,Q,Biosolids,20,L18715-2,13C12-beta-HBCDD,Not Applicable,76.7,Not Applicable,Percent Recovery,7/11/2012,WG41692
+Q-BIOS-21,Q,Biosolids,21,L18715-3,13C12-beta-HBCDD,Not Applicable,84.8,Not Applicable,Percent Recovery,7/12/2012,WG41692
+Q-BIOS-22,Q,Biosolids,22,L19335-1,13C12-beta-HBCDD,Not Applicable,81.6,Not Applicable,Percent Recovery,2/26/2013,WG43036
+Q-BIOS-23,Q,Biosolids,23,L19335-2,13C12-beta-HBCDD,Not Applicable,81.2,Not Applicable,Percent Recovery,3/5/2013,WG43036
+Q-BIOS-24,Q,Biosolids,24,L19335-3,13C12-beta-HBCDD,Not Applicable,109,Not Applicable,Percent Recovery,3/6/2013,WG43036
+Q-BIOS-25,Q,Biosolids,25,L19889-1,13C12-beta-HBCDD,Not Applicable,111,Not Applicable,Percent Recovery,7/9/2013,WG44216
+Q-BIOS-26,Q,Biosolids,26,L19889-2,13C12-beta-HBCDD,Not Applicable,104,Not Applicable,Percent Recovery,7/10/2013,WG44216
+Q-BIOS-27,Q,Biosolids,27,L19889-3,13C12-beta-HBCDD,Not Applicable,108,Not Applicable,Percent Recovery,7/11/2013,WG44216
+Q-BIOS-28,Q,Biosolids,28,L20950-1,13C12-beta-HBCDD,Not Applicable,43.7,Not Applicable,Percent Recovery,1/28/2014,WG46409
+Q-BIOS-30,Q,Biosolids,30,L20950-3,13C12-beta-HBCDD,Not Applicable,60.8,Not Applicable,Percent Recovery,1/30/2014,WG46409
+Q-BIOS-31,Q,Biosolids,31,L22015-1,13C12-beta-HBCDD,Not Applicable,53.4,Not Applicable,Percent Recovery,9/9/2014,WG48994
+Q-BIOS-32,Q,Biosolids,32,L22015-2,13C12-beta-HBCDD,Not Applicable,58.6,Not Applicable,Percent Recovery,9/10/2014,WG48994
+Q-BIOS-33,Q,Biosolids,33,L22015-3,13C12-beta-HBCDD,Not Applicable,55.6,Not Applicable,Percent Recovery,9/11/2014,WG48994
+Q-BIOS-34,Q,Biosolids,34,L22753-1,13C12-beta-HBCDD,Not Applicable,64.8,Not Applicable,Percent Recovery,2/4/2015,WG50365
+Q-BIOS-35,Q,Biosolids,35,L22753-2,13C12-beta-HBCDD,Not Applicable,63.3,Not Applicable,Percent Recovery,2/5/2015,WG50365
+Q-BIOS-36,Q,Biosolids,36,L22753-3,13C12-beta-HBCDD,Not Applicable,60.3,Not Applicable,Percent Recovery,2/6/2015,WG50365
+R-BIOS-16,R,Biosolids,16,L20906-1,13C12-beta-HBCDD,Not Applicable,71.2,Not Applicable,Percent Recovery,1/21/2014,WG46409
+R-BIOS-21,R,Biosolids,21,L22222-1  (A),13C12-beta-HBCDD,Not Applicable,81,Not Applicable,Percent Recovery,10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-103  (DUP L22222-1),13C12-beta-HBCDD,Not Applicable,88.7,Not Applicable,Percent Recovery,10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-104  (DUP L22222-1),13C12-beta-HBCDD,Not Applicable,82.9,Not Applicable,Percent Recovery,10/2/2014,WG48994
+R-BIOS-22,R,Biosolids,22,L22774-1,13C12-beta-HBCDD,Not Applicable,70.9,Not Applicable,Percent Recovery,2/10/2015,WG50365
+R-BIOS-23,R,Biosolids,23,L22774-2,13C12-beta-HBCDD,Not Applicable,73,Not Applicable,Percent Recovery,2/11/2015,WG50365
+R-BIOS-24,R,Biosolids,24,L22774-3,13C12-beta-HBCDD,Not Applicable,65.8,Not Applicable,Percent Recovery,2/12/2015,WG50365
+U-BIOS-19,U,Biosolids,19,L20090-1 R,13C12-beta-HBCDD,Not Applicable,69.4,Not Applicable,Percent Recovery,8/13/2013,WG44660
+U-BIOS-20,U,Biosolids,20,L20090-2 R,13C12-beta-HBCDD,Not Applicable,84.7,Not Applicable,Percent Recovery,8/14/2013,WG44660
+U-BIOS-21,U,Biosolids,21,L20090-3 R,13C12-beta-HBCDD,Not Applicable,62.5,Not Applicable,Percent Recovery,8/15/2013,WG44660
+U-BIOS-22,U,Biosolids,22,L21137-1 R,13C12-beta-HBCDD,Not Applicable,69.4,Not Applicable,Percent Recovery,3/4/2014,WG47445
+U-BIOS-23,U,Biosolids,23,L21137-2 R,13C12-beta-HBCDD,Not Applicable,101,Not Applicable,Percent Recovery,3/5/2014,WG47445
+U-BIOS-24,U,Biosolids,24,L21137-3 R,13C12-beta-HBCDD,Not Applicable,67.7,Not Applicable,Percent Recovery,3/6/2014,WG47445
+U-BIOS-25,U,Biosolids,25,L21960-1,13C12-beta-HBCDD,Not Applicable,68.8,Not Applicable,Percent Recovery,8/26/2014,WG48994
+U-BIOS-26,U,Biosolids,26,L21960-2,13C12-beta-HBCDD,Not Applicable,75.9,Not Applicable,Percent Recovery,8/27/2014,WG48994
+U-BIOS-27,U,Biosolids,27,L21960-3,13C12-beta-HBCDD,Not Applicable,62.2,Not Applicable,Percent Recovery,8/28/2014,WG48994
+U-BIOS-28,U,Biosolids,28,L22850-1,13C12-beta-HBCDD,Not Applicable,60.5,Not Applicable,Percent Recovery,3/3/2015,WG50595
+U-BIOS-29,U,Biosolids,29,L22850-2,13C12-beta-HBCDD,Not Applicable,76.9,Not Applicable,Percent Recovery,3/4/2015,WG50595
+U-BIOS-30,U,Biosolids,30,L22850-3,13C12-beta-HBCDD,Not Applicable,63,Not Applicable,Percent Recovery,3/5/2015,WG50595
+B-BIOS-13,B,Biosolids,13,L21782-1,13C12-gamma-HBCDD,Not Applicable,76,Not Applicable,Percent Recovery,7/29/2014,WG48505
+B-BIOS-14,B,Biosolids,14,L21782-2,13C12-gamma-HBCDD,Not Applicable,56.9,Not Applicable,Percent Recovery,7/30/2014,WG48505
+B-BIOS-15,B,Biosolids,15,L21782-3,13C12-gamma-HBCDD,Not Applicable,79.7,Not Applicable,Percent Recovery,8/1/2014,WG48505
+B-BIOS-16,B,Biosolids,16,L22824-1,13C12-gamma-HBCDD,Not Applicable,85.3,Not Applicable,Percent Recovery,2/24/2015,WG50595
+B-BIOS-17,B,Biosolids,17,L22824-2,13C12-gamma-HBCDD,Not Applicable,121,Not Applicable,Percent Recovery,2/25/2015,WG50595
+B-BIOS-18,B,Biosolids,18,L22824-3,13C12-gamma-HBCDD,Not Applicable,114,Not Applicable,Percent Recovery,2/26/2015,WG50595
+E-BIOS-16,E,Biosolids,16,L19290-1,13C12-gamma-HBCDD,Not Applicable,67.4,Not Applicable,Percent Recovery,2/19/2013,WG43036
+E-BIOS-17,E,Biosolids,17,L19290-2,13C12-gamma-HBCDD,Not Applicable,59.9,Not Applicable,Percent Recovery,2/20/2013,WG43036
+E-BIOS-18,E,Biosolids,18,L19290-3,13C12-gamma-HBCDD,Not Applicable,53.8,Not Applicable,Percent Recovery,2/21/2013,WG43036
+E-BIOS-19,E,Biosolids,19,L19935-1,13C12-gamma-HBCDD,Not Applicable,86.9,Not Applicable,Percent Recovery,7/16/2013,WG44284
+E-BIOS-20,E,Biosolids,20,L19943-1,13C12-gamma-HBCDD,Not Applicable,73.8,Not Applicable,Percent Recovery,7/17/2013,WG44284
+E-BIOS-21,E,Biosolids,21,L19943-2,13C12-gamma-HBCDD,Not Applicable,78.8,Not Applicable,Percent Recovery,7/18/2013,WG44284
+E-BIOS-22,E,Biosolids,22,L21061-1 R,13C12-gamma-HBCDD,Not Applicable,70.2,Not Applicable,Percent Recovery,2/18/2014,WG47445
+E-BIOS-23,E,Biosolids,23,L21061-2 R,13C12-gamma-HBCDD,Not Applicable,67.9,Not Applicable,Percent Recovery,2/19/2014,WG47445
+E-BIOS-24,E,Biosolids,24,L21061-3 R,13C12-gamma-HBCDD,Not Applicable,74.8,Not Applicable,Percent Recovery,2/20/2014,WG47445
+E-BIOS-7,E,Biosolids,7,L18719-1,13C12-gamma-HBCDD,Not Applicable,81.6,Not Applicable,Percent Recovery,7/24/2012,WG41692
+E-BIOS-8,E,Biosolids,8,L18719-2,13C12-gamma-HBCDD,Not Applicable,70.2,Not Applicable,Percent Recovery,7/25/2012,WG41692
+E-BIOS-9,E,Biosolids,9,L18719-3,13C12-gamma-HBCDD,Not Applicable,84.8,Not Applicable,Percent Recovery,7/26/2012,WG41692
+HG-BIOS-1,HG,Biosolids,1,L20145-1 R,13C12-gamma-HBCDD,Not Applicable,81.2,Not Applicable,Percent Recovery,8/20/2013,WG44660
+HG-BIOS-2,HG,Biosolids,2,L20145-2 R (A),13C12-gamma-HBCDD,Not Applicable,72.8,Not Applicable,Percent Recovery,8/21/2013,WG44660
+HG-BIOS-2 (Duplicate),HG,Biosolids,2,WG44660-103  (DUP L20145-2),13C12-gamma-HBCDD,Not Applicable,83.4,Not Applicable,Percent Recovery,8/21/2013,WG44660
+HG-BIOS-3,HG,Biosolids,3,L20145-3 R,13C12-gamma-HBCDD,Not Applicable,72.4,Not Applicable,Percent Recovery,8/22/2013,WG44660
+HG-BIOS-4,HG,Biosolids,4,L21180-1 R,13C12-gamma-HBCDD,Not Applicable,77.7,Not Applicable,Percent Recovery,3/11/2014,WG47445
+HG-BIOS-5,HG,Biosolids,5,L21180-2 R,13C12-gamma-HBCDD,Not Applicable,71.1,Not Applicable,Percent Recovery,3/12/2014,WG47445
+HG-BIOS-6,HG,Biosolids,6,L21180-3 R,13C12-gamma-HBCDD,Not Applicable,70.9,Not Applicable,Percent Recovery,3/13/2014,WG47445
+N-BIOS-10,N,Biosolids,10,L19359-1,13C12-gamma-HBCDD,Not Applicable,53.1,Not Applicable,Percent Recovery,3/5/2013,WG43036
+N-BIOS-11,N,Biosolids,11,L19359-2,13C12-gamma-HBCDD,Not Applicable,64.7,Not Applicable,Percent Recovery,3/6/2013,WG43036
+N-BIOS-12,N,Biosolids,12,L19359-3 R,13C12-gamma-HBCDD,Not Applicable,67.2,Not Applicable,Percent Recovery,3/7/2013,WG43147
+N-BIOS-7,N,Biosolids,7,L18722-1,13C12-gamma-HBCDD,Not Applicable,89.6,Not Applicable,Percent Recovery,8/21/2012,WG41692
+N-BIOS-8,N,Biosolids,8,L18722-2,13C12-gamma-HBCDD,Not Applicable,90,Not Applicable,Percent Recovery,8/22/2012,WG41692
+N-BIOS-9,N,Biosolids,9,L18722-3,13C12-gamma-HBCDD,Not Applicable,78.5,Not Applicable,Percent Recovery,8/23/2012,WG41692
+Q-BIOS-19,Q,Biosolids,19,L18715-1  (A),13C12-gamma-HBCDD,Not Applicable,64.2,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-19 (MS),Q,Biosolids,19,WG41692-103  (MS),13C12-gamma-HBCDD,Not Applicable,74.5,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-19 (MSD),Q,Biosolids,19,WG41692-104  (MSD),13C12-gamma-HBCDD,Not Applicable,69.1,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-20,Q,Biosolids,20,L18715-2,13C12-gamma-HBCDD,Not Applicable,76,Not Applicable,Percent Recovery,7/11/2012,WG41692
+Q-BIOS-21,Q,Biosolids,21,L18715-3,13C12-gamma-HBCDD,Not Applicable,69.2,Not Applicable,Percent Recovery,7/12/2012,WG41692
+Q-BIOS-22,Q,Biosolids,22,L19335-1,13C12-gamma-HBCDD,Not Applicable,66.5,Not Applicable,Percent Recovery,2/26/2013,WG43036
+Q-BIOS-23,Q,Biosolids,23,L19335-2,13C12-gamma-HBCDD,Not Applicable,44.7,Not Applicable,Percent Recovery,3/5/2013,WG43036
+Q-BIOS-24,Q,Biosolids,24,L19335-3,13C12-gamma-HBCDD,Not Applicable,76.9,Not Applicable,Percent Recovery,3/6/2013,WG43036
+Q-BIOS-25,Q,Biosolids,25,L19889-1,13C12-gamma-HBCDD,Not Applicable,83.3,Not Applicable,Percent Recovery,7/9/2013,WG44216
+Q-BIOS-26,Q,Biosolids,26,L19889-2,13C12-gamma-HBCDD,Not Applicable,83.6,Not Applicable,Percent Recovery,7/10/2013,WG44216
+Q-BIOS-27,Q,Biosolids,27,L19889-3,13C12-gamma-HBCDD,Not Applicable,84.4,Not Applicable,Percent Recovery,7/11/2013,WG44216
+Q-BIOS-28,Q,Biosolids,28,L20950-1,13C12-gamma-HBCDD,Not Applicable,47.1,Not Applicable,Percent Recovery,1/28/2014,WG46409
+Q-BIOS-30,Q,Biosolids,30,L20950-3,13C12-gamma-HBCDD,Not Applicable,74.1,Not Applicable,Percent Recovery,1/30/2014,WG46409
+Q-BIOS-31,Q,Biosolids,31,L22015-1,13C12-gamma-HBCDD,Not Applicable,45.1,Not Applicable,Percent Recovery,9/9/2014,WG48994
+Q-BIOS-32,Q,Biosolids,32,L22015-2,13C12-gamma-HBCDD,Not Applicable,48.1,Not Applicable,Percent Recovery,9/10/2014,WG48994
+Q-BIOS-33,Q,Biosolids,33,L22015-3,13C12-gamma-HBCDD,Not Applicable,47,Not Applicable,Percent Recovery,9/11/2014,WG48994
+Q-BIOS-34,Q,Biosolids,34,L22753-1,13C12-gamma-HBCDD,Not Applicable,74.9,Not Applicable,Percent Recovery,2/4/2015,WG50365
+Q-BIOS-35,Q,Biosolids,35,L22753-2,13C12-gamma-HBCDD,Not Applicable,64.5,Not Applicable,Percent Recovery,2/5/2015,WG50365
+Q-BIOS-36,Q,Biosolids,36,L22753-3,13C12-gamma-HBCDD,Not Applicable,61.4,Not Applicable,Percent Recovery,2/6/2015,WG50365
+R-BIOS-16,R,Biosolids,16,L20906-1,13C12-gamma-HBCDD,Not Applicable,71,Not Applicable,Percent Recovery,1/21/2014,WG46409
+R-BIOS-21,R,Biosolids,21,L22222-1  (A),13C12-gamma-HBCDD,Not Applicable,77.7,Not Applicable,Percent Recovery,10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-103  (DUP L22222-1),13C12-gamma-HBCDD,Not Applicable,80.7,Not Applicable,Percent Recovery,10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-104  (DUP L22222-1),13C12-gamma-HBCDD,Not Applicable,81.9,Not Applicable,Percent Recovery,10/2/2014,WG48994
+R-BIOS-22,R,Biosolids,22,L22774-1,13C12-gamma-HBCDD,Not Applicable,65.8,Not Applicable,Percent Recovery,2/10/2015,WG50365
+R-BIOS-23,R,Biosolids,23,L22774-2,13C12-gamma-HBCDD,Not Applicable,71.1,Not Applicable,Percent Recovery,2/11/2015,WG50365
+R-BIOS-24,R,Biosolids,24,L22774-3,13C12-gamma-HBCDD,Not Applicable,81.8,Not Applicable,Percent Recovery,2/12/2015,WG50365
+U-BIOS-19,U,Biosolids,19,L20090-1 R,13C12-gamma-HBCDD,Not Applicable,69.4,Not Applicable,Percent Recovery,8/13/2013,WG44660
+U-BIOS-20,U,Biosolids,20,L20090-2 R,13C12-gamma-HBCDD,Not Applicable,77.7,Not Applicable,Percent Recovery,8/14/2013,WG44660
+U-BIOS-21,U,Biosolids,21,L20090-3 R,13C12-gamma-HBCDD,Not Applicable,64.4,Not Applicable,Percent Recovery,8/15/2013,WG44660
+U-BIOS-22,U,Biosolids,22,L21137-1 R,13C12-gamma-HBCDD,Not Applicable,70.4,Not Applicable,Percent Recovery,3/4/2014,WG47445
+U-BIOS-23,U,Biosolids,23,L21137-2 R,13C12-gamma-HBCDD,Not Applicable,68.7,Not Applicable,Percent Recovery,3/5/2014,WG47445
+U-BIOS-24,U,Biosolids,24,L21137-3 R,13C12-gamma-HBCDD,Not Applicable,56.9,Not Applicable,Percent Recovery,3/6/2014,WG47445
+U-BIOS-25,U,Biosolids,25,L21960-1,13C12-gamma-HBCDD,Not Applicable,51.2,Not Applicable,Percent Recovery,8/26/2014,WG48994
+U-BIOS-26,U,Biosolids,26,L21960-2,13C12-gamma-HBCDD,Not Applicable,62.1,Not Applicable,Percent Recovery,8/27/2014,WG48994
+U-BIOS-27,U,Biosolids,27,L21960-3,13C12-gamma-HBCDD,Not Applicable,53.7,Not Applicable,Percent Recovery,8/28/2014,WG48994
+U-BIOS-28,U,Biosolids,28,L22850-1,13C12-gamma-HBCDD,Not Applicable,87.8,Not Applicable,Percent Recovery,3/3/2015,WG50595
+U-BIOS-29,U,Biosolids,29,L22850-2,13C12-gamma-HBCDD,Not Applicable,135,Not Applicable,Percent Recovery,3/4/2015,WG50595
+U-BIOS-30,U,Biosolids,30,L22850-3,13C12-gamma-HBCDD,Not Applicable,96.7,Not Applicable,Percent Recovery,3/5/2015,WG50595
+B-BIOS-13,B,Biosolids,13,L21782-1,alpha-HBCDD,U,0,19.1,ng/g (dry weight basis),7/29/2014,WG48505
+B-BIOS-14,B,Biosolids,14,L21782-2,alpha-HBCDD,U,0,62.9,ng/g (dry weight basis),7/30/2014,WG48505
+B-BIOS-15,B,Biosolids,15,L21782-3,alpha-HBCDD,U,0,62.9,ng/g (dry weight basis),8/1/2014,WG48505
+B-BIOS-16,B,Biosolids,16,L22824-1,alpha-HBCDD,U,0,33.9,ng/g (dry weight basis),2/24/2015,WG50595
+B-BIOS-17,B,Biosolids,17,L22824-2,alpha-HBCDD,U,0,35.6,ng/g (dry weight basis),2/25/2015,WG50595
+B-BIOS-18,B,Biosolids,18,L22824-3,alpha-HBCDD,U,0,28.2,ng/g (dry weight basis),2/26/2015,WG50595
+E-BIOS-16,E,Biosolids,16,L19290-1,alpha-HBCDD,Not Applicable,15.2,9.09,ng/g (dry weight basis),2/19/2013,WG43036
+E-BIOS-17,E,Biosolids,17,L19290-2,alpha-HBCDD,Not Applicable,17,8.64,ng/g (dry weight basis),2/20/2013,WG43036
+E-BIOS-18,E,Biosolids,18,L19290-3,alpha-HBCDD,Not Applicable,14,8.9,ng/g (dry weight basis),2/21/2013,WG43036
+E-BIOS-19,E,Biosolids,19,L19935-1,alpha-HBCDD,Not Applicable,15.2,12,ng/g (dry weight basis),7/16/2013,WG44284
+E-BIOS-20,E,Biosolids,20,L19943-1,alpha-HBCDD,U,0,9.23,ng/g (dry weight basis),7/17/2013,WG44284
+E-BIOS-21,E,Biosolids,21,L19943-2,alpha-HBCDD,Not Applicable,13.9,10.1,ng/g (dry weight basis),7/18/2013,WG44284
+E-BIOS-22,E,Biosolids,22,L21061-1 R,alpha-HBCDD,Not Applicable,15,9.12,ng/g (dry weight basis),2/18/2014,WG47445
+E-BIOS-23,E,Biosolids,23,L21061-2 R,alpha-HBCDD,Not Applicable,13.9,9.64,ng/g (dry weight basis),2/19/2014,WG47445
+E-BIOS-24,E,Biosolids,24,L21061-3 R,alpha-HBCDD,Not Applicable,15.3,10.2,ng/g (dry weight basis),2/20/2014,WG47445
+E-BIOS-7,E,Biosolids,7,L18719-1,alpha-HBCDD,Not Applicable,17,11.2,ng/g (dry weight basis),7/24/2012,WG41692
+E-BIOS-8,E,Biosolids,8,L18719-2,alpha-HBCDD,Not Applicable,13.8,9.51,ng/g (dry weight basis),7/25/2012,WG41692
+E-BIOS-9,E,Biosolids,9,L18719-3,alpha-HBCDD,Not Applicable,19,12.2,ng/g (dry weight basis),7/26/2012,WG41692
+HG-BIOS-1,HG,Biosolids,1,L20145-1 R,alpha-HBCDD,U,0,39.6,ng/g (dry weight basis),8/20/2013,WG44660
+HG-BIOS-2,HG,Biosolids,2,L20145-2 R (A),alpha-HBCDD,U,0,36.2,ng/g (dry weight basis),8/21/2013,WG44660
+HG-BIOS-2 (Duplicate),HG,Biosolids,2,WG44660-103  (DUP L20145-2),alpha-HBCDD,U,0,34.1,ng/g (dry weight basis),8/21/2013,WG44660
+HG-BIOS-3,HG,Biosolids,3,L20145-3 R,alpha-HBCDD,U,0,31.2,ng/g (dry weight basis),8/22/2013,WG44660
+HG-BIOS-4,HG,Biosolids,4,L21180-1 R,alpha-HBCDD,U,0,16.9,ng/g (dry weight basis),3/11/2014,WG47445
+HG-BIOS-5,HG,Biosolids,5,L21180-2 R,alpha-HBCDD,U,0,23.6,ng/g (dry weight basis),3/12/2014,WG47445
+HG-BIOS-6,HG,Biosolids,6,L21180-3 R,alpha-HBCDD,U,0,33.7,ng/g (dry weight basis),3/13/2014,WG47445
+N-BIOS-10,N,Biosolids,10,L19359-1,alpha-HBCDD,U,0,6.48,ng/g (dry weight basis),3/5/2013,WG43036
+N-BIOS-11,N,Biosolids,11,L19359-2,alpha-HBCDD,U,0,6.94,ng/g (dry weight basis),3/6/2013,WG43036
+N-BIOS-12,N,Biosolids,12,L19359-3 R,alpha-HBCDD,U,0,6.51,ng/g (dry weight basis),3/7/2013,WG43147
+N-BIOS-7,N,Biosolids,7,L18722-1,alpha-HBCDD,Not Applicable,7.57,6.18,ng/g (dry weight basis),8/21/2012,WG41692
+N-BIOS-8,N,Biosolids,8,L18722-2,alpha-HBCDD,U,0,7.38,ng/g (dry weight basis),8/22/2012,WG41692
+N-BIOS-9,N,Biosolids,9,L18722-3,alpha-HBCDD,U,0,7.24,ng/g (dry weight basis),8/23/2012,WG41692
+Q-BIOS-19,Q,Biosolids,19,L18715-1  (A),alpha-HBCDD,Not Applicable,7.41,5.81,ng/g (dry weight basis),7/10/2012,WG41692
+Q-BIOS-19 (MS),Q,Biosolids,19,WG41692-103  (MS),alpha-HBCDD,Not Applicable,105,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-19 (MSD),Q,Biosolids,19,WG41692-104  (MSD),alpha-HBCDD,Not Applicable,90,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-20,Q,Biosolids,20,L18715-2,alpha-HBCDD,U,0,6.21,ng/g (dry weight basis),7/11/2012,WG41692
+Q-BIOS-21,Q,Biosolids,21,L18715-3,alpha-HBCDD,Not Applicable,6.12,6.09,ng/g (dry weight basis),7/12/2012,WG41692
+Q-BIOS-22,Q,Biosolids,22,L19335-1,alpha-HBCDD,U,0,6.69,ng/g (dry weight basis),2/26/2013,WG43036
+Q-BIOS-23,Q,Biosolids,23,L19335-2,alpha-HBCDD,U,0,6.81,ng/g (dry weight basis),3/5/2013,WG43036
+Q-BIOS-24,Q,Biosolids,24,L19335-3,alpha-HBCDD,Not Applicable,6.86,6.08,ng/g (dry weight basis),3/6/2013,WG43036
+Q-BIOS-25,Q,Biosolids,25,L19889-1,alpha-HBCDD,U,0,6.51,ng/g (dry weight basis),7/9/2013,WG44216
+Q-BIOS-26,Q,Biosolids,26,L19889-2,alpha-HBCDD,U,0,6.74,ng/g (dry weight basis),7/10/2013,WG44216
+Q-BIOS-27,Q,Biosolids,27,L19889-3,alpha-HBCDD,U,0,13,ng/g (dry weight basis),7/11/2013,WG44216
+Q-BIOS-28,Q,Biosolids,28,L20950-1,alpha-HBCDD,U,0,6.16,ng/g (dry weight basis),1/28/2014,WG46409
+Q-BIOS-30,Q,Biosolids,30,L20950-3,alpha-HBCDD,U,0,6.44,ng/g (dry weight basis),1/30/2014,WG46409
+Q-BIOS-31,Q,Biosolids,31,L22015-1,alpha-HBCDD,U,0,5.68,ng/g (dry weight basis),9/9/2014,WG48994
+Q-BIOS-32,Q,Biosolids,32,L22015-2,alpha-HBCDD,Not Applicable,8.71,5.8,ng/g (dry weight basis),9/10/2014,WG48994
+Q-BIOS-33,Q,Biosolids,33,L22015-3,alpha-HBCDD,U,0,6.11,ng/g (dry weight basis),9/11/2014,WG48994
+Q-BIOS-34,Q,Biosolids,34,L22753-1,alpha-HBCDD,U,0,8.51,ng/g (dry weight basis),2/4/2015,WG50365
+Q-BIOS-35,Q,Biosolids,35,L22753-2,alpha-HBCDD,Not Applicable,8.37,7.75,ng/g (dry weight basis),2/5/2015,WG50365
+Q-BIOS-36,Q,Biosolids,36,L22753-3,alpha-HBCDD,U,0,7.7,ng/g (dry weight basis),2/6/2015,WG50365
+R-BIOS-16,R,Biosolids,16,L20906-1,alpha-HBCDD,U,0,9.95,ng/g (dry weight basis),1/21/2014,WG46409
+R-BIOS-21,R,Biosolids,21,L22222-1  (A),alpha-HBCDD,Not Applicable,23.7,4.93,ng/g (dry weight basis),10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-103  (DUP L22222-1),alpha-HBCDD,U,0,4.91,ng/g (dry weight basis),10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-104  (DUP L22222-1),alpha-HBCDD,U,0,4.64,ng/g (dry weight basis),10/2/2014,WG48994
+R-BIOS-22,R,Biosolids,22,L22774-1,alpha-HBCDD,Not Applicable,15.4,5.86,ng/g (dry weight basis),2/10/2015,WG50365
+R-BIOS-23,R,Biosolids,23,L22774-2,alpha-HBCDD,Not Applicable,49.5,5.08,ng/g (dry weight basis),2/11/2015,WG50365
+R-BIOS-24,R,Biosolids,24,L22774-3,alpha-HBCDD,Not Applicable,11.4,5.84,ng/g (dry weight basis),2/12/2015,WG50365
+U-BIOS-19,U,Biosolids,19,L20090-1 R,alpha-HBCDD,Not Applicable,6.58,5.83,ng/g (dry weight basis),8/13/2013,WG44660
+U-BIOS-20,U,Biosolids,20,L20090-2 R,alpha-HBCDD,Not Applicable,69.1,5.1,ng/g (dry weight basis),8/14/2013,WG44660
+U-BIOS-21,U,Biosolids,21,L20090-3 R,alpha-HBCDD,Not Applicable,17.4,4.74,ng/g (dry weight basis),8/15/2013,WG44660
+U-BIOS-22,U,Biosolids,22,L21137-1 R,alpha-HBCDD,Not Applicable,9.25,6.04,ng/g (dry weight basis),3/4/2014,WG47445
+U-BIOS-23,U,Biosolids,23,L21137-2 R,alpha-HBCDD,Not Applicable,9.1,6.15,ng/g (dry weight basis),3/5/2014,WG47445
+U-BIOS-24,U,Biosolids,24,L21137-3 R,alpha-HBCDD,Not Applicable,7.51,6.18,ng/g (dry weight basis),3/6/2014,WG47445
+U-BIOS-25,U,Biosolids,25,L21960-1,alpha-HBCDD,Not Applicable,8.09,5.46,ng/g (dry weight basis),8/26/2014,WG48994
+U-BIOS-26,U,Biosolids,26,L21960-2,alpha-HBCDD,U,0,6.04,ng/g (dry weight basis),8/27/2014,WG48994
+U-BIOS-27,U,Biosolids,27,L21960-3,alpha-HBCDD,Not Applicable,7.61,5.39,ng/g (dry weight basis),8/28/2014,WG48994
+U-BIOS-28,U,Biosolids,28,L22850-1,alpha-HBCDD,Not Applicable,12.2,6.21,ng/g (dry weight basis),3/3/2015,WG50595
+U-BIOS-29,U,Biosolids,29,L22850-2,alpha-HBCDD,Not Applicable,8.09,5.57,ng/g (dry weight basis),3/4/2015,WG50595
+U-BIOS-30,U,Biosolids,30,L22850-3,alpha-HBCDD,Not Applicable,9.56,5.87,ng/g (dry weight basis),3/5/2015,WG50595
+B-BIOS-13,B,Biosolids,13,L21782-1,beta-HBCDD,U,0,19.1,ng/g (dry weight basis),7/29/2014,WG48505
+B-BIOS-14,B,Biosolids,14,L21782-2,beta-HBCDD,U,0,62.9,ng/g (dry weight basis),7/30/2014,WG48505
+B-BIOS-15,B,Biosolids,15,L21782-3,beta-HBCDD,U,0,62.9,ng/g (dry weight basis),8/1/2014,WG48505
+B-BIOS-16,B,Biosolids,16,L22824-1,beta-HBCDD,U,0,33.9,ng/g (dry weight basis),2/24/2015,WG50595
+B-BIOS-17,B,Biosolids,17,L22824-2,beta-HBCDD,U,0,35.6,ng/g (dry weight basis),2/25/2015,WG50595
+B-BIOS-18,B,Biosolids,18,L22824-3,beta-HBCDD,U,0,28.2,ng/g (dry weight basis),2/26/2015,WG50595
+E-BIOS-16,E,Biosolids,16,L19290-1,beta-HBCDD,U,0,9.09,ng/g (dry weight basis),2/19/2013,WG43036
+E-BIOS-17,E,Biosolids,17,L19290-2,beta-HBCDD,U,0,8.64,ng/g (dry weight basis),2/20/2013,WG43036
+E-BIOS-18,E,Biosolids,18,L19290-3,beta-HBCDD,U,0,8.9,ng/g (dry weight basis),2/21/2013,WG43036
+E-BIOS-19,E,Biosolids,19,L19935-1,beta-HBCDD,U,0,12,ng/g (dry weight basis),7/16/2013,WG44284
+E-BIOS-20,E,Biosolids,20,L19943-1,beta-HBCDD,U,0,9.23,ng/g (dry weight basis),7/17/2013,WG44284
+E-BIOS-21,E,Biosolids,21,L19943-2,beta-HBCDD,U,0,10.1,ng/g (dry weight basis),7/18/2013,WG44284
+E-BIOS-22,E,Biosolids,22,L21061-1 R,beta-HBCDD,U,0,9.12,ng/g (dry weight basis),2/18/2014,WG47445
+E-BIOS-23,E,Biosolids,23,L21061-2 R,beta-HBCDD,U,0,9.64,ng/g (dry weight basis),2/19/2014,WG47445
+E-BIOS-24,E,Biosolids,24,L21061-3 R,beta-HBCDD,U,0,10.2,ng/g (dry weight basis),2/20/2014,WG47445
+E-BIOS-7,E,Biosolids,7,L18719-1,beta-HBCDD,U,0,11.2,ng/g (dry weight basis),7/24/2012,WG41692
+E-BIOS-8,E,Biosolids,8,L18719-2,beta-HBCDD,U,0,9.51,ng/g (dry weight basis),7/25/2012,WG41692
+E-BIOS-9,E,Biosolids,9,L18719-3,beta-HBCDD,U,0,12.2,ng/g (dry weight basis),7/26/2012,WG41692
+HG-BIOS-1,HG,Biosolids,1,L20145-1 R,beta-HBCDD,U,0,39.6,ng/g (dry weight basis),8/20/2013,WG44660
+HG-BIOS-2,HG,Biosolids,2,L20145-2 R (A),beta-HBCDD,U,0,36.2,ng/g (dry weight basis),8/21/2013,WG44660
+HG-BIOS-2 (Duplicate),HG,Biosolids,2,WG44660-103  (DUP L20145-2),beta-HBCDD,U,0,34.1,ng/g (dry weight basis),8/21/2013,WG44660
+HG-BIOS-3,HG,Biosolids,3,L20145-3 R,beta-HBCDD,U,0,31.2,ng/g (dry weight basis),8/22/2013,WG44660
+HG-BIOS-4,HG,Biosolids,4,L21180-1 R,beta-HBCDD,U,0,16.9,ng/g (dry weight basis),3/11/2014,WG47445
+HG-BIOS-5,HG,Biosolids,5,L21180-2 R,beta-HBCDD,U,0,23.6,ng/g (dry weight basis),3/12/2014,WG47445
+HG-BIOS-6,HG,Biosolids,6,L21180-3 R,beta-HBCDD,U,0,33.7,ng/g (dry weight basis),3/13/2014,WG47445
+N-BIOS-10,N,Biosolids,10,L19359-1,beta-HBCDD,U,0,6.48,ng/g (dry weight basis),3/5/2013,WG43036
+N-BIOS-11,N,Biosolids,11,L19359-2,beta-HBCDD,U,0,6.94,ng/g (dry weight basis),3/6/2013,WG43036
+N-BIOS-12,N,Biosolids,12,L19359-3 R,beta-HBCDD,U,0,6.51,ng/g (dry weight basis),3/7/2013,WG43147
+N-BIOS-7,N,Biosolids,7,L18722-1,beta-HBCDD,U,0,6.18,ng/g (dry weight basis),8/21/2012,WG41692
+N-BIOS-8,N,Biosolids,8,L18722-2,beta-HBCDD,U,0,7.38,ng/g (dry weight basis),8/22/2012,WG41692
+N-BIOS-9,N,Biosolids,9,L18722-3,beta-HBCDD,U,0,7.24,ng/g (dry weight basis),8/23/2012,WG41692
+Q-BIOS-19,Q,Biosolids,19,L18715-1  (A),beta-HBCDD,U,0,5.81,ng/g (dry weight basis),7/10/2012,WG41692
+Q-BIOS-19 (MS),Q,Biosolids,19,WG41692-103  (MS),beta-HBCDD,Not Applicable,97.2,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-19 (MSD),Q,Biosolids,19,WG41692-104  (MSD),beta-HBCDD,Not Applicable,96.9,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-20,Q,Biosolids,20,L18715-2,beta-HBCDD,U,0,6.21,ng/g (dry weight basis),7/11/2012,WG41692
+Q-BIOS-21,Q,Biosolids,21,L18715-3,beta-HBCDD,U,0,6.09,ng/g (dry weight basis),7/12/2012,WG41692
+Q-BIOS-22,Q,Biosolids,22,L19335-1,beta-HBCDD,U,0,6.69,ng/g (dry weight basis),2/26/2013,WG43036
+Q-BIOS-23,Q,Biosolids,23,L19335-2,beta-HBCDD,U,0,6.81,ng/g (dry weight basis),3/5/2013,WG43036
+Q-BIOS-24,Q,Biosolids,24,L19335-3,beta-HBCDD,U,0,6.08,ng/g (dry weight basis),3/6/2013,WG43036
+Q-BIOS-25,Q,Biosolids,25,L19889-1,beta-HBCDD,U,0,6.51,ng/g (dry weight basis),7/9/2013,WG44216
+Q-BIOS-26,Q,Biosolids,26,L19889-2,beta-HBCDD,U,0,6.74,ng/g (dry weight basis),7/10/2013,WG44216
+Q-BIOS-27,Q,Biosolids,27,L19889-3,beta-HBCDD,U,0,13,ng/g (dry weight basis),7/11/2013,WG44216
+Q-BIOS-28,Q,Biosolids,28,L20950-1,beta-HBCDD,U,0,5.85,ng/g (dry weight basis),1/28/2014,WG46409
+Q-BIOS-30,Q,Biosolids,30,L20950-3,beta-HBCDD,U,0,6.44,ng/g (dry weight basis),1/30/2014,WG46409
+Q-BIOS-31,Q,Biosolids,31,L22015-1,beta-HBCDD,U,0,5.68,ng/g (dry weight basis),9/9/2014,WG48994
+Q-BIOS-32,Q,Biosolids,32,L22015-2,beta-HBCDD,U,0,5.8,ng/g (dry weight basis),9/10/2014,WG48994
+Q-BIOS-33,Q,Biosolids,33,L22015-3,beta-HBCDD,U,0,6.11,ng/g (dry weight basis),9/11/2014,WG48994
+Q-BIOS-34,Q,Biosolids,34,L22753-1,beta-HBCDD,U,0,8.51,ng/g (dry weight basis),2/4/2015,WG50365
+Q-BIOS-35,Q,Biosolids,35,L22753-2,beta-HBCDD,U,0,7.75,ng/g (dry weight basis),2/5/2015,WG50365
+Q-BIOS-36,Q,Biosolids,36,L22753-3,beta-HBCDD,U,0,7.7,ng/g (dry weight basis),2/6/2015,WG50365
+R-BIOS-16,R,Biosolids,16,L20906-1,beta-HBCDD,U,0,4.78,ng/g (dry weight basis),1/21/2014,WG46409
+R-BIOS-21,R,Biosolids,21,L22222-1  (A),beta-HBCDD,Not Applicable,5.46,4.93,ng/g (dry weight basis),10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-103  (DUP L22222-1),beta-HBCDD,U,0,4.91,ng/g (dry weight basis),10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-104  (DUP L22222-1),beta-HBCDD,U,0,4.64,ng/g (dry weight basis),10/2/2014,WG48994
+R-BIOS-22,R,Biosolids,22,L22774-1,beta-HBCDD,U,0,5.86,ng/g (dry weight basis),2/10/2015,WG50365
+R-BIOS-23,R,Biosolids,23,L22774-2,beta-HBCDD,Not Applicable,9.68,5.08,ng/g (dry weight basis),2/11/2015,WG50365
+R-BIOS-24,R,Biosolids,24,L22774-3,beta-HBCDD,U,0,5.84,ng/g (dry weight basis),2/12/2015,WG50365
+U-BIOS-19,U,Biosolids,19,L20090-1 R,beta-HBCDD,U,0,5.83,ng/g (dry weight basis),8/13/2013,WG44660
+U-BIOS-20,U,Biosolids,20,L20090-2 R,beta-HBCDD,Not Applicable,13.4,5.1,ng/g (dry weight basis),8/14/2013,WG44660
+U-BIOS-21,U,Biosolids,21,L20090-3 R,beta-HBCDD,U,0,4.74,ng/g (dry weight basis),8/15/2013,WG44660
+U-BIOS-22,U,Biosolids,22,L21137-1 R,beta-HBCDD,U,0,6.04,ng/g (dry weight basis),3/4/2014,WG47445
+U-BIOS-23,U,Biosolids,23,L21137-2 R,beta-HBCDD,U,0,6.15,ng/g (dry weight basis),3/5/2014,WG47445
+U-BIOS-24,U,Biosolids,24,L21137-3 R,beta-HBCDD,U,0,6.18,ng/g (dry weight basis),3/6/2014,WG47445
+U-BIOS-25,U,Biosolids,25,L21960-1,beta-HBCDD,U,0,5.46,ng/g (dry weight basis),8/26/2014,WG48994
+U-BIOS-26,U,Biosolids,26,L21960-2,beta-HBCDD,U,0,6.04,ng/g (dry weight basis),8/27/2014,WG48994
+U-BIOS-27,U,Biosolids,27,L21960-3,beta-HBCDD,U,0,5.39,ng/g (dry weight basis),8/28/2014,WG48994
+U-BIOS-28,U,Biosolids,28,L22850-1,beta-HBCDD,U,0,6.21,ng/g (dry weight basis),3/3/2015,WG50595
+U-BIOS-29,U,Biosolids,29,L22850-2,beta-HBCDD,U,0,5.57,ng/g (dry weight basis),3/4/2015,WG50595
+U-BIOS-30,U,Biosolids,30,L22850-3,beta-HBCDD,U,0,5.87,ng/g (dry weight basis),3/5/2015,WG50595
+B-BIOS-13,B,Biosolids,13,L21782-1,gamma-HBCDD,U,0,19.1,ng/g (dry weight basis),7/29/2014,WG48505
+B-BIOS-14,B,Biosolids,14,L21782-2,gamma-HBCDD,U,0,62.9,ng/g (dry weight basis),7/30/2014,WG48505
+B-BIOS-15,B,Biosolids,15,L21782-3,gamma-HBCDD,U,0,62.9,ng/g (dry weight basis),8/1/2014,WG48505
+B-BIOS-16,B,Biosolids,16,L22824-1,gamma-HBCDD,U,0,33.9,ng/g (dry weight basis),2/24/2015,WG50595
+B-BIOS-17,B,Biosolids,17,L22824-2,gamma-HBCDD,U,0,35.6,ng/g (dry weight basis),2/25/2015,WG50595
+B-BIOS-18,B,Biosolids,18,L22824-3,gamma-HBCDD,U,0,28.2,ng/g (dry weight basis),2/26/2015,WG50595
+E-BIOS-16,E,Biosolids,16,L19290-1,gamma-HBCDD,Not Applicable,56.4,9.09,ng/g (dry weight basis),2/19/2013,WG43036
+E-BIOS-17,E,Biosolids,17,L19290-2,gamma-HBCDD,Not Applicable,33.4,8.64,ng/g (dry weight basis),2/20/2013,WG43036
+E-BIOS-18,E,Biosolids,18,L19290-3,gamma-HBCDD,Not Applicable,41.4,8.9,ng/g (dry weight basis),2/21/2013,WG43036
+E-BIOS-19,E,Biosolids,19,L19935-1,gamma-HBCDD,Not Applicable,53.7,12,ng/g (dry weight basis),7/16/2013,WG44284
+E-BIOS-20,E,Biosolids,20,L19943-1,gamma-HBCDD,Not Applicable,38.6,9.23,ng/g (dry weight basis),7/17/2013,WG44284
+E-BIOS-21,E,Biosolids,21,L19943-2,gamma-HBCDD,Not Applicable,39.6,10.1,ng/g (dry weight basis),7/18/2013,WG44284
+E-BIOS-22,E,Biosolids,22,L21061-1 R,gamma-HBCDD,Not Applicable,20.9,9.12,ng/g (dry weight basis),2/18/2014,WG47445
+E-BIOS-23,E,Biosolids,23,L21061-2 R,gamma-HBCDD,Not Applicable,17.1,9.64,ng/g (dry weight basis),2/19/2014,WG47445
+E-BIOS-24,E,Biosolids,24,L21061-3 R,gamma-HBCDD,Not Applicable,14.6,10.2,ng/g (dry weight basis),2/20/2014,WG47445
+E-BIOS-7,E,Biosolids,7,L18719-1,gamma-HBCDD,Not Applicable,22,11.2,ng/g (dry weight basis),7/24/2012,WG41692
+E-BIOS-8,E,Biosolids,8,L18719-2,gamma-HBCDD,Not Applicable,21.5,9.51,ng/g (dry weight basis),7/25/2012,WG41692
+E-BIOS-9,E,Biosolids,9,L18719-3,gamma-HBCDD,Not Applicable,21,12.2,ng/g (dry weight basis),7/26/2012,WG41692
+HG-BIOS-1,HG,Biosolids,1,L20145-1 R,gamma-HBCDD,U,0,39.6,ng/g (dry weight basis),8/20/2013,WG44660
+HG-BIOS-2,HG,Biosolids,2,L20145-2 R (A),gamma-HBCDD,U,0,36.2,ng/g (dry weight basis),8/21/2013,WG44660
+HG-BIOS-2 (Duplicate),HG,Biosolids,2,WG44660-103  (DUP L20145-2),gamma-HBCDD,U,0,34.1,ng/g (dry weight basis),8/21/2013,WG44660
+HG-BIOS-3,HG,Biosolids,3,L20145-3 R,gamma-HBCDD,U,0,31.2,ng/g (dry weight basis),8/22/2013,WG44660
+HG-BIOS-4,HG,Biosolids,4,L21180-1 R,gamma-HBCDD,U,0,16.9,ng/g (dry weight basis),3/11/2014,WG47445
+HG-BIOS-5,HG,Biosolids,5,L21180-2 R,gamma-HBCDD,U,0,23.6,ng/g (dry weight basis),3/12/2014,WG47445
+HG-BIOS-6,HG,Biosolids,6,L21180-3 R,gamma-HBCDD,U,0,33.7,ng/g (dry weight basis),3/13/2014,WG47445
+N-BIOS-10,N,Biosolids,10,L19359-1,gamma-HBCDD,Not Applicable,7.42,6.48,ng/g (dry weight basis),3/5/2013,WG43036
+N-BIOS-11,N,Biosolids,11,L19359-2,gamma-HBCDD,Not Applicable,35.7,6.94,ng/g (dry weight basis),3/6/2013,WG43036
+N-BIOS-12,N,Biosolids,12,L19359-3 R,gamma-HBCDD,Not Applicable,18.9,6.51,ng/g (dry weight basis),3/7/2013,WG43147
+N-BIOS-7,N,Biosolids,7,L18722-1,gamma-HBCDD,Not Applicable,9.03,6.18,ng/g (dry weight basis),8/21/2012,WG41692
+N-BIOS-8,N,Biosolids,8,L18722-2,gamma-HBCDD,U,0,7.38,ng/g (dry weight basis),8/22/2012,WG41692
+N-BIOS-9,N,Biosolids,9,L18722-3,gamma-HBCDD,U,0,7.24,ng/g (dry weight basis),8/23/2012,WG41692
+Q-BIOS-19,Q,Biosolids,19,L18715-1  (A),gamma-HBCDD,Not Applicable,16.3,5.81,ng/g (dry weight basis),7/10/2012,WG41692
+Q-BIOS-19 (MS),Q,Biosolids,19,WG41692-103  (MS),gamma-HBCDD,Not Applicable,97.1,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-19 (MSD),Q,Biosolids,19,WG41692-104  (MSD),gamma-HBCDD,Not Applicable,91.4,Not Applicable,Percent Recovery,7/10/2012,WG41692
+Q-BIOS-20,Q,Biosolids,20,L18715-2,gamma-HBCDD,Not Applicable,7.62,6.21,ng/g (dry weight basis),7/11/2012,WG41692
+Q-BIOS-21,Q,Biosolids,21,L18715-3,gamma-HBCDD,Not Applicable,8.4,6.09,ng/g (dry weight basis),7/12/2012,WG41692
+Q-BIOS-22,Q,Biosolids,22,L19335-1,gamma-HBCDD,U,0,6.69,ng/g (dry weight basis),2/26/2013,WG43036
+Q-BIOS-23,Q,Biosolids,23,L19335-2,gamma-HBCDD,U,0,6.81,ng/g (dry weight basis),3/5/2013,WG43036
+Q-BIOS-24,Q,Biosolids,24,L19335-3,gamma-HBCDD,Not Applicable,10,6.08,ng/g (dry weight basis),3/6/2013,WG43036
+Q-BIOS-25,Q,Biosolids,25,L19889-1,gamma-HBCDD,U,0,6.51,ng/g (dry weight basis),7/9/2013,WG44216
+Q-BIOS-26,Q,Biosolids,26,L19889-2,gamma-HBCDD,Not Applicable,10.5,6.74,ng/g (dry weight basis),7/10/2013,WG44216
+Q-BIOS-27,Q,Biosolids,27,L19889-3,gamma-HBCDD,Not Applicable,17,13,ng/g (dry weight basis),7/11/2013,WG44216
+Q-BIOS-28,Q,Biosolids,28,L20950-1,gamma-HBCDD,Not Applicable,12.2,5.85,ng/g (dry weight basis),1/28/2014,WG46409
+Q-BIOS-30,Q,Biosolids,30,L20950-3,gamma-HBCDD,Not Applicable,13.3,6.44,ng/g (dry weight basis),1/30/2014,WG46409
+Q-BIOS-31,Q,Biosolids,31,L22015-1,gamma-HBCDD,U,0,5.68,ng/g (dry weight basis),9/9/2014,WG48994
+Q-BIOS-32,Q,Biosolids,32,L22015-2,gamma-HBCDD,U,0,5.8,ng/g (dry weight basis),9/10/2014,WG48994
+Q-BIOS-33,Q,Biosolids,33,L22015-3,gamma-HBCDD,U,0,6.11,ng/g (dry weight basis),9/11/2014,WG48994
+Q-BIOS-34,Q,Biosolids,34,L22753-1,gamma-HBCDD,U,0,8.51,ng/g (dry weight basis),2/4/2015,WG50365
+Q-BIOS-35,Q,Biosolids,35,L22753-2,gamma-HBCDD,U,0,7.75,ng/g (dry weight basis),2/5/2015,WG50365
+Q-BIOS-36,Q,Biosolids,36,L22753-3,gamma-HBCDD,U,0,7.7,ng/g (dry weight basis),2/6/2015,WG50365
+R-BIOS-16,R,Biosolids,16,L20906-1,gamma-HBCDD,Not Applicable,17.3,6.2,ng/g (dry weight basis),1/21/2014,WG46409
+R-BIOS-21,R,Biosolids,21,L22222-1  (A),gamma-HBCDD,Not Applicable,10.9,4.93,ng/g (dry weight basis),10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-103  (DUP L22222-1),gamma-HBCDD,Not Applicable,9.11,4.91,ng/g (dry weight basis),10/2/2014,WG48994
+R-BIOS-21 (Duplicate),R,Biosolids,21,WG48994-104  (DUP L22222-1),gamma-HBCDD,U,0,4.64,ng/g (dry weight basis),10/2/2014,WG48994
+R-BIOS-22,R,Biosolids,22,L22774-1,gamma-HBCDD,Not Applicable,9.72,5.86,ng/g (dry weight basis),2/10/2015,WG50365
+R-BIOS-23,R,Biosolids,23,L22774-2,gamma-HBCDD,Not Applicable,24.5,5.08,ng/g (dry weight basis),2/11/2015,WG50365
+R-BIOS-24,R,Biosolids,24,L22774-3,gamma-HBCDD,Not Applicable,13.2,5.84,ng/g (dry weight basis),2/12/2015,WG50365
+U-BIOS-19,U,Biosolids,19,L20090-1 R,gamma-HBCDD,Not Applicable,7.12,5.83,ng/g (dry weight basis),8/13/2013,WG44660
+U-BIOS-20,U,Biosolids,20,L20090-2 R,gamma-HBCDD,Not Applicable,12.7,5.1,ng/g (dry weight basis),8/14/2013,WG44660
+U-BIOS-21,U,Biosolids,21,L20090-3 R,gamma-HBCDD,Not Applicable,12.4,4.74,ng/g (dry weight basis),8/15/2013,WG44660
+U-BIOS-22,U,Biosolids,22,L21137-1 R,gamma-HBCDD,Not Applicable,6.51,6.04,ng/g (dry weight basis),3/4/2014,WG47445
+U-BIOS-23,U,Biosolids,23,L21137-2 R,gamma-HBCDD,Not Applicable,12.9,6.15,ng/g (dry weight basis),3/5/2014,WG47445
+U-BIOS-24,U,Biosolids,24,L21137-3 R,gamma-HBCDD,Not Applicable,6.57,6.18,ng/g (dry weight basis),3/6/2014,WG47445
+U-BIOS-25,U,Biosolids,25,L21960-1,gamma-HBCDD,Not Applicable,10.5,5.46,ng/g (dry weight basis),8/26/2014,WG48994
+U-BIOS-26,U,Biosolids,26,L21960-2,gamma-HBCDD,Not Applicable,6.3,6.04,ng/g (dry weight basis),8/27/2014,WG48994
+U-BIOS-27,U,Biosolids,27,L21960-3,gamma-HBCDD,Not Applicable,12.2,5.39,ng/g (dry weight basis),8/28/2014,WG48994
+U-BIOS-28,U,Biosolids,28,L22850-1,gamma-HBCDD,Not Applicable,6.91,6.21,ng/g (dry weight basis),3/3/2015,WG50595
+U-BIOS-29,U,Biosolids,29,L22850-2,gamma-HBCDD,Not Applicable,9.72,5.57,ng/g (dry weight basis),3/4/2015,WG50595
+U-BIOS-30,U,Biosolids,30,L22850-3,gamma-HBCDD,Not Applicable,6.49,5.87,ng/g (dry weight basis),3/5/2015,WG50595
